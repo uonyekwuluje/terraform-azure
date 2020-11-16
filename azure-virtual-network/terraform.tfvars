@@ -13,4 +13,3 @@ private_subnets = {
 
 service_endpoints = [ "Microsoft.AzureActiveDirectory", "Microsoft.AzureCosmosDB", "Microsoft.ContainerRegistry",
               "Microsoft.EventHub", "Microsoft.KeyVault", "Microsoft.Sql", "Microsoft.Storage" ]
-

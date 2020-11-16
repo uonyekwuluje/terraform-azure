@@ -6,3 +6,4 @@
 
 ## Terraform Module Stack
 * [Azure Virtual Network](azure-virtual-network)
+* [Azure Virtual Machines](azure-virtual-machine)
