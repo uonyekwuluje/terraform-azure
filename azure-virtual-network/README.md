@@ -1,4 +1,6 @@
 # Terraform Azure Virtual Network
+This create a virtual network with 4 subnets and a base security group.
+
 Terraform Initialize
 ```
 terraform init
