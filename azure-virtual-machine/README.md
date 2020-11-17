@@ -1,6 +1,6 @@
 # Terraform Azure Virtual Network
 This terraform code takes a list of Virtual Machines and Builds them. In order to use this, ensure you have
-an existing Virtual Network in place. This code depends on that. For more information, see [Azure Virtual Network](../Azure Virtual Network)
+an existing Virtual Network in place. This code depends on that. For more information, see [Azure Virtual Network](https://github.com/uonyekwuluje/terraform-azure/tree/main/azure-virtual-network)
 
 ## Setup
 Update **server_names** in ```terraform.tfvars``` with the list of servers you need and apply.
